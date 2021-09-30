@@ -1,27 +1,36 @@
 ### Hi there, I'm Sushant Barje.👋
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sushant-barje-322761168/)
 
+<hr/>
+<p>
+  Hello, I'm final year Computer Science Engineering Student. Love to write code. Just mining (I mean learning) Blockchain Technology to protect my privacy. Just new to open       source. 
+  
+  - Recently started to learn Blockchain Technology.
+  - Know Web Technology like PHP, HTML5, CSS, JavaScript, MYSQL.
+  - Know some bit of NodeJS, Express, ReactJS, MongoDB.
+  - Want to collaborate.
+  - Feel free to contact me, my email - Sushantbarje4@gmail.com
+</p>
+<!-- <div align="center">
+  
+<!-- [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SushantBarje&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
+<!--  </div> --> 
+<!-- 
+<div class="container-box">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantBarje&count_private=true&show_icons=true&theme=radical)]    (https://github.com/anuraghazra/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushantBarje&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
+  </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantBarje&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantBarje&layout=compact&theme=radical" />
+  </a>
+</div>
+ -->
+ <hr/>
+ <h3>My Stat's</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<!--   [![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=SushantBarje&count_private=true&show_icons=true&theme=radical)]    (https://github.com/anuraghazra/github-readme-stats) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushantBarje&count_private=true&show_icons=true&theme=radical&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushantBarje&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantBarje&layout=compact&theme=radical" />
-</a>
+<img align="left" alt="Sushant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SushantBarje&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantBarje&layout=compact&theme=dark" width="46%" />
 
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev) -->
-<!-- **SushantBarje/SushantBarje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on Web -->
-- 🌱 I’m currently learning BLOCKCHAIN
-<!-- - 👯 I’m looking to collaborate.
-- 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
