@@ -3,13 +3,13 @@
 
 <hr/>
 <p>
-  Hello, I'm final year Computer Science Engineering Student. Love to write code. Just mining (I mean learning) Blockchain Technology to protect my privacy. Just new to open       source. 
+  Hello, I'm final year Computer Science Engineering Student. Love to write code. Just mining (I mean learning) Blockchain Technology to protect my privacy. New to open       source. 
   
   - Recently started to learn Blockchain Technology.
   - Know Web Technology like PHP, HTML5, CSS, JavaScript, MYSQL.
   - Know some bit of NodeJS, Express, ReactJS, MongoDB.
   - Want to collaborate.
-  - Feel free to contact me, my email - Sushantbarje4@gmail.com
+  - Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sushant-barje-322761168/)
 </p>
 <!-- <div align="center">
   
