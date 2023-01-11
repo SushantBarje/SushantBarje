@@ -3,7 +3,7 @@
 
 <hr/>
 <p>
-  Hello, I'm final year Computer Science Engineering Student. Love to write code. Just mining (I mean learning) Blockchain Technology to protect my privacy. New to open       source. 
+  Hello, Love to write code. Just mining (I mean learning) Blockchain Technology to protect my privacy. New to open source. 
   
   - Recently started to explore Blockchain.
   - Know Web Technology like PHP, HTML5, CSS, JavaScript, MYSQL.
